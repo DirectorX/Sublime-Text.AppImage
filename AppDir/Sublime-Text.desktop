@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Sublime-Text
+GenericName=Text Editor
+Comment=Sophisticated text editor for code, markup and prose
+Exec=/opt/application/sublime_text %F
+Terminal=false
+MimeType=text/plain;
+Icon=sublime-text
+Categories=Utility;TextEditor;Development;
+StartupNotify=true
+StartupWMClass=sublime_text
+X-AppImage-Version=4200
