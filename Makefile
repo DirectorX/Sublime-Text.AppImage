@@ -1,5 +1,5 @@
 # keep meta data style of upstream
-VERSION=4200
+VERSION=4213
 ARCH=x64
 SOURCE="https://download.sublimetext.com/sublime_text_build_$(VERSION)_$(ARCH).tar.xz"
 DESTINATION="subl.tar.xz"
